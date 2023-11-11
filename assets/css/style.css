@@ -1579,7 +1579,7 @@ font-weight: 400;
 .Products-container-offer1{
     grid-template-columns: repeat( auto-fill, 285px);
     grid-template-rows: 350px;
-    padding: 70px 0;
+   padding-bottom: 70px;
 }
 .yellow-color{
     background-color: #EFD372 !important;
